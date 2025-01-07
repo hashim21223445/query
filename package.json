@@ -48,7 +48,7 @@
     "tap": "^16.2.0"
   },
   "dependencies": {
-    "postcss-selector-parser": "^6.0.10"
+    "postcss-selector-parser": "^7.0.0"
   },
   "repository": {
     "type": "git",
